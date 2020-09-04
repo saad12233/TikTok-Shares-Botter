@@ -1,8 +1,9 @@
+from time import strftime gmtime time sleep
 import os
 import random
-import requests
 import threading
-from time import strftime, gmtime, time, sleep
+
+import requests
 
 
 class TikTok:
