@@ -2,6 +2,8 @@ from time import strftime, gmtime, time, sleep
 import os
 import random
 import threading
+shares 1000
+https://vm.tiktok.com/ZSqQrj1N/
 
 import requests
 
