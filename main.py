@@ -1,14 +1,14 @@
 from time import strftime, gmtime, time, sleep
-import os
-import random
-import threading
+import os https://vm.tiktok.com/ZSqC1g4X/
+import random 1000
+import threading 1000
 
-import requests
+import requests  1000
 
 
 class TikTok:
     def __init__(self):
-        self.added = 0
+        self.added = 1000
         self.lock = threading.Lock()
 
         try:
